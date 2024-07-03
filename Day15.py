@@ -1,6 +1,7 @@
 filename = "day15_input.txt"
 with open(filename) as f:
     input = f.read().split(",")
+#Test
 result = 0
 
 def hash(string):

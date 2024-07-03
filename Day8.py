@@ -1,6 +1,6 @@
 from functools import reduce
 from math import lcm
-
+#Test
 instruction, network = open('day8_input.txt').read().split('\n\n')
 network = network.split('\n')
 
